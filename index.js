@@ -5,7 +5,7 @@ module.exports = {
     require('babel-plugin-syntax-object-rest-spread'),
 
     require('babel-plugin-transform-class-properties'),
-    require('babel-plugin-transform-decorators-legacy'),
+    require('babel-plugin-transform-decorators-legacy').default,
     require('babel-plugin-transform-object-rest-spread')
   ]
 };
