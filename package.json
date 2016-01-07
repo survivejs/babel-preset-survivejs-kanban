@@ -1,7 +1,7 @@
 {
   "name": "babel-preset-survivejs-kanban",
   "version": "0.0.0",
-  "description": "Babel preset for SurviveJS Kanban application.",
+  "description": "Babel preset for SurviveJS Kanban application",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
   "main": "index.js",
   "scripts": {
