@@ -17,7 +17,8 @@
   },
   "keywords": [
     "survivejs",
-    "babel"
+    "babel",
+    "babel-preset"
   ],
   "license": "MIT",
   "dependencies": {
