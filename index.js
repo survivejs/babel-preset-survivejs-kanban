@@ -1,6 +1,6 @@
 module.exports = {
   plugins: [
-    require('babel-plugin-array-includes'),
+    require('babel-plugin-array-includes').default,
 
     require('babel-plugin-syntax-class-properties'),
     require('babel-plugin-syntax-decorators'),
